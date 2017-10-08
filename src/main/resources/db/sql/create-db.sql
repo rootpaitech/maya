@@ -1,0 +1,1 @@
+create table t_employee_info (emp_id varchar2(100) not null, emp_name varchar2(100) not null, emp_email varchar2(100) not null, emp_number varchar2(100) not null, emp_dept varchar2(100) not null, emp_cost_code varchar2(100) not null, emp_location varchar2(100) not null, emp_manager varchar2(100) not null)
